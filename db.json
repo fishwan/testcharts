@@ -22,16 +22,40 @@
   ],
     "pie": [
     {
+      "year": 2025,
+      "month": 12,
       "countryLabel": "美國",
       "exportData": 35.96
     },
     {
+      "year": 2025,
+      "month": 12,
       "countryLabel": "中國",
       "exportData": 25.64
     },
     {
+      "year": 2025,
+      "month": 12,
       "countryLabel": "日本",
       "exportData": 20.25
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "countryLabel": "美國",
+      "exportData": 45.96
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "countryLabel": "中國",
+      "exportData": 52.64
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "countryLabel": "日本",
+      "exportData": 26.25
     }
   ],
     "test": [
