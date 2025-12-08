@@ -38,42 +38,22 @@
       }
     }
   ],
-    "pie": [
+  "hs4Pie": [
     {
-      "year": 2025,
-      "month": 12,
-      "countryLabel": "美國",
-      "exportData": 35.96
+      "year": "2025",
+      "month": "12",
+      "pieData": {
+        "stockLabel": ["電話機及零件", "HS8470 至...", "其他", "石油（原油除外）", "自動資料處理（電腦）", "積體電路"],
+        "exportData": [ 45.96, 7.06, 5.25, 4.04, 3.35, 2.78 ]
+      }
     },
     {
-      "year": 2025,
-      "month": 12,
-      "countryLabel": "中國",
-      "exportData": 25.64
-    },
-    {
-      "year": 2025,
-      "month": 12,
-      "countryLabel": "日本",
-      "exportData": 20.25
-    },
-    {
-      "year": 2025,
-      "month": 11,
-      "countryLabel": "美國",
-      "exportData": 45.96
-    },
-    {
-      "year": 2025,
-      "month": 11,
-      "countryLabel": "中國",
-      "exportData": 52.64
-    },
-    {
-      "year": 2025,
-      "month": 11,
-      "countryLabel": "日本",
-      "exportData": 26.25
+      "year": "2025",
+      "month": "11",
+      "pieData": {
+        "stockLabel": ["電話機及零件", "HS8470 至...", "其他", "石油（原油除外）", "自動資料處理（電腦）", "積體電路"],
+        "exportData": [ 28.94, 35.35, 44.78, 3.52, 2.22, 2.00 ]
+      }
     }
   ]
 }
