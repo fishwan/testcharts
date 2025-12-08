@@ -1,36 +1,21 @@
 {
 "yearly": [
     {
-      "categories": [{
-        "xaxis": {
-          "type": "datetime",
-          "format": "yyyy"
-        }
-      }],
+      "categories": [ 2021, 2022, 2023, 2024, 2025 ],
       "exportData": [ 4791043, 4620915, 3779720, 3782143, 571486 ],
       "exportGrowthData": [ 27.4, -3.55, -18.2, 0.06, -2.27]
     }
   ],
   "quarterly": [
     {
-        "categories": [{
-        "xaxis": {
-            "type": "category",
-          "categories": [ "2024 Q4","2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4" ]
-        }
-      }],
+      "categories": [ "2024 Q4","2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4" ],
       "exportData": [ 2609720, 4620915, 3779720, 3782143, 571486 ],
       "exportGrowthData": [ -3.55, 50, -18.2, 0.06, -2.27]
     }
   ],
   "monthly": [
     {
-        "categories": [{
-        "xaxis": {
-            "type": "datetime",
-          "format": "MM/yyyy"
-        }
-      }],
+      "categories": [ "2024 12月","2025 1月", "2025 2月", "2025 3月", "2025 4月", "2025 5月", "2025 6月", "2025 7月" ],
       "exportData": [ 309720, 320915, 579720, 482143, 171486, 320915, 579720, 271486 ],
       "exportGrowthData": [ -3.55, 50, -18.2, 0.06, -2.27, -1.2, 1.06, 3.27]
     }
