@@ -20,6 +20,20 @@
       "exportGrowthData": [ -3.55, 50, -18.2, 0.06, -2.27, -1.2, 1.06, 3.27]
     }
   ],
+    "pie": [
+    {
+      "countryLabel": "美國",
+      "exportData": 35.96
+    },
+    {
+      "countryLabel": "中國",
+      "exportData": 25.64
+    },
+    {
+      "countryLabel": "日本",
+      "exportData": 20.25
+    }
+  ],
     "test": [
         {
         "year": 112,
