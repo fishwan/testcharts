@@ -1,64 +1,62 @@
 {
-"import": {
     "monthly": [
-      {
-        "year": 2025,
-        "month": 12,
-        "importData": 309725,
-        "importGrowthData": -3.54
-      },
-      {
-        "year": 2025,
-        "month": 11,
-        "importData": 330915,
-        "importGrowthData": -18.5
-      },
-      {
-        "year": 2025,
-        "month": 10,
-        "importData": 579020,
-        "importGrowthData": 12
-      }
-    ],
-    "quarterly":[
-      {
-        "year": 2025,
-        "quarter": "Q4",
-        "importData": 2609720,
-        "importGrowthData": -1.54
-      },
-      {
-        "year": 2025,
-        "quarter": "Q3",
-        "importData": 4620915,
-        "importGrowthData": 20
-      },
-      {
-        "year": 2025,
-        "quarter": "Q2",
-        "importData": 3779720,
-        "importGrowthData": 18
-      },
-      {
-        "year": 2025,
-        "quarter": "Q1",
-        "importData": 3782143,
-        "importGrowthData": 33
-      }
-    ]
-  },
-  "quarterly": [
     {
-      "categories": [ "2024 Q4","2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4" ],
-      "exportData": [ 2609720, 4620915, 3779720, 3782143, 571486 ],
-      "exportGrowthData": [ -3.55, 50, -18.2, 0.06, -2.27]
+      "year": 2025,
+      "month": 12,
+      "importData": 309725,
+      "importGrowthData": -3.54,
+      "exportData": 109725,
+      "exportGrowthData": 1.54
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "importData": 330915,
+      "importGrowthData": -18.5,
+      "exportData": 210005,
+      "exportGrowthData": 5.99
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "importData": 579020,
+      "importGrowthData": 12,
+      "exportData": 333335,
+      "exportGrowthData": 2.03
     }
   ],
-  "monthly": [
+  "quarterly":[
     {
-      "categories": [ "2024 12月","2025 1月", "2025 2月", "2025 3月", "2025 4月", "2025 5月", "2025 6月", "2025 7月" ],
-      "exportData": [ 309720, 320915, 579720, 482143, 171486, 320915, 579720, 271486 ],
-      "exportGrowthData": [ -3.55, 50, -18.2, 0.06, -2.27, -1.2, 1.06, 3.27]
+      "year": 2025,
+      "quarter": "Q4",
+      "importData": 2609720,
+      "importGrowthData": -1.54,
+      "exportData": 2109725,
+      "exportGrowthData": 2.66
+    },
+    {
+      "year": 2025,
+      "quarter": "Q3",
+      "importData": 4620915,
+      "importGrowthData": 20,
+      "exportData": 1107820,
+      "exportGrowthData": -3.56
+    },
+    {
+      "year": 2025,
+      "quarter": "Q2",
+      "importData": 3779720,
+      "importGrowthData": 18,
+      "exportData": 1409725,
+      "exportGrowthData": 2.03
+    },
+    {
+      "year": 2025,
+      "quarter": "Q1",
+      "importData": 3782143,
+      "importGrowthData": 33,
+      "exportData": 2108355,
+      "exportGrowthData": 4.54
     }
   ],
     "countryPie": [
