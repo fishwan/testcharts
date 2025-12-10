@@ -66,8 +66,8 @@
       "pieData": [
         {
           "countryLabel": "美國",
-          "exportData": 20.3,
-          "importData": 38.8
+          "exportData": 20.30,
+          "importData": 38.80
         },
         {
           "countryLabel": "澳大利亞",
@@ -81,7 +81,7 @@
         },
         {
           "countryLabel": "日本",
-          "exportData": 20.3,
+          "exportData": 20.30,
           "importData": 7.56
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "countryLabel": "日本",
-          "exportData": 20.3,
+          "exportData": 20.30,
           "importData": 18.76
         },
         {
