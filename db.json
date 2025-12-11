@@ -21,39 +21,9 @@
           "countryLabel": "澳大利亞",
           "exportData": 8.94,
           "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
-        },
-        {
-          "countryLabel": "德國",
-          "exportData": 15.25,
-          "importData": 10.93
         }
       ],
       "hs4PieData": [
-        {
-          "countryLabel": "美國",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
         {
           "countryLabel": "日本",
           "exportData": 20.30,
@@ -84,21 +54,6 @@
           "importData": 38.80
         },
         {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
-        },
-        {
           "countryLabel": "德國",
           "exportData": 15.25,
           "importData": 10.93
@@ -106,24 +61,9 @@
       ],
       "hs4PieData": [
         {
-          "countryLabel": "美國",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
           "countryLabel": "中國",
           "exportData": 17.06,
           "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
         },
         {
           "countryLabel": "德國",
@@ -150,42 +90,12 @@
           "importData": 38.80
         },
         {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
-        },
-        {
           "countryLabel": "德國",
           "exportData": 15.25,
           "importData": 10.93
         }
       ],
       "hs4PieData": [
-        {
-          "countryLabel": "美國",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
         {
           "countryLabel": "日本",
           "exportData": 20.30,
@@ -221,43 +131,13 @@
           "countryLabel": "澳大利亞",
           "exportData": 8.94,
           "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
-        },
-        {
-          "countryLabel": "德國",
-          "exportData": 15.25,
-          "importData": 10.93
         }
       ],
       "hs4PieData": [
         {
-          "countryLabel": "美國",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
           "countryLabel": "澳大利亞",
           "exportData": 8.94,
           "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
         },
         {
           "countryLabel": "德國",
@@ -279,21 +159,6 @@
       ],
       "countryPieData": [
         {
-          "countryLabel": "美國",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
           "countryLabel": "日本",
           "exportData": 20.30,
           "importData": 7.56
@@ -314,21 +179,6 @@
           "countryLabel": "澳大利亞",
           "exportData": 8.94,
           "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
-        },
-        {
-          "countryLabel": "德國",
-          "exportData": 15.25,
-          "importData": 10.93
         }
       ]
       
@@ -346,24 +196,9 @@
       ],
       "countryPieData": [
         {
-          "countryLabel": "美國",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
           "countryLabel": "中國",
           "exportData": 17.06,
           "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
         },
         {
           "countryLabel": "德國",
@@ -376,21 +211,6 @@
           "countryLabel": "美國",
           "exportData": 20.30,
           "importData": 38.80
-        },
-        {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
         },
         {
           "countryLabel": "德國",
@@ -413,16 +233,6 @@
       ],
       "countryPieData": [
         {
-          "countryLabel": "美國",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
           "countryLabel": "中國",
           "exportData": 17.06,
           "importData": 23.03
@@ -432,11 +242,6 @@
           "exportData": 20.30,
           "importData": 7.56
         },
-        {
-          "countryLabel": "德國",
-          "exportData": 15.25,
-          "importData": 10.93
-        }
       ],
       "hs4PieData": [
         {
@@ -445,25 +250,10 @@
           "importData": 38.80
         },
         {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
           "countryLabel": "日本",
           "exportData": 20.30,
           "importData": 7.56
         },
-        {
-          "countryLabel": "德國",
-          "exportData": 15.25,
-          "importData": 10.93
-        }
       ]
     }
   ]
