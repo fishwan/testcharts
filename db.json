@@ -2,99 +2,175 @@
     "monthly": [
     {
       "year": 2025,
-      "month": 10,
-      "importData": 579020,
-      "importGrowthData": 12,
-      "exportData": 333335,
-      "exportGrowthData": 2.03
-    },
-    {
-      "year": 2025,
-      "month": 11,
-      "importData": 330915,
-      "importGrowthData": -18.5,
-      "exportData": 210005,
-      "exportGrowthData": 5.99
-    },
-    {
-      "year": 2025,
       "month": 12,
-      "importData": 309725,
-      "importGrowthData": -3.54,
-      "exportData": 109725,
-      "exportGrowthData": 1.54
-    }
-  ],
-  "quarterly":[
-    {
-      "year": 2025,
-      "quarter": "Q1",
-      "importData": 3782143,
-      "importGrowthData": 33,
-      "exportData": 2108355,
-      "exportGrowthData": 4.54
-    },
-    {
-      "year": 2025,
-      "quarter": "Q2",
-      "importData": 3779720,
-      "importGrowthData": 18,
-      "exportData": 1409725,
-      "exportGrowthData": 2.03
-    },
-    {
-      "year": 2025,
-      "quarter": "Q3",
-      "importData": 4620915,
-      "importGrowthData": 20,
-      "exportData": 1107820,
-      "exportGrowthData": -3.56
-    },
-    {
-      "year": 2025,
-      "quarter": "Q4",
-      "importData": 2609720,
-      "importGrowthData": -1.54,
-      "exportData": 2109725,
-      "exportGrowthData": 2.66
-    }
-  ],
-    "countryPie": [
-    {
-      "year": 2025,
-      "month": 11,
-      "pieData": [
+      "mainChartData": [
+        {
+          "importData": 309725,
+          "importGrowthData": -3.54,
+          "exportData": 109725,
+          "exportGrowthData": 1.54
+        }
+      ],
+      "countryPieData": [
         {
           "countryLabel": "美國",
-          "exportData": 45.96,
-          "importData": 23.03
+          "exportData": 20.30,
+          "importData": 38.80
         },
         {
           "countryLabel": "澳大利亞",
-          "exportData": 4.04,
-          "importData": 10.93
+          "exportData": 8.94,
+          "importData": 18.76
         },
         {
           "countryLabel": "中國",
-          "exportData": 2.78,
-          "importData": 38.8
+          "exportData": 17.06,
+          "importData": 23.03
         },
         {
           "countryLabel": "日本",
           "exportData": 20.30,
-          "importData": 18.76
+          "importData": 7.56
         },
         {
           "countryLabel": "德國",
-          "exportData": 5.25,
-          "importData": 3.27
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ],
+      "hs4PieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
         }
       ]
     },
     {
       "year": 2025,
-      "month": 12,
-      "pieData": [
+      "month": 11,
+      "mainChartData": [
+        {
+          "importData": 330915,
+          "importGrowthData": -18.5,
+          "exportData": 210005,
+          "exportGrowthData": 5.99
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ],
+      "hs4PieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "mainChartData": [
+        {
+          "importData": 579020,
+          "importGrowthData": 12,
+          "exportData": 333335,
+          "exportGrowthData": 2.03
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ],
+      "hs4PieData": [
         {
           "countryLabel": "美國",
           "exportData": 20.30,
@@ -123,22 +199,272 @@
       ]
     }
   ],
-  "hs4Pie": [
+  "quarterly":[
     {
-      "year": "2025",
-      "month": "12",
-      "pieData": {
-        "stockLabel": ["電話機及零件", "HS8470 至...", "其他", "石油（原油除外）", "自動資料處理（電腦）", "積體電路"],
-        "exportData": [ 45.96, 7.06, 5.25, 4.04, 3.35, 2.78 ]
-      }
+      "year": 2025,
+      "quarter": "Q4",
+      "mainChartData": [
+        {
+          "importData": 2609720,
+          "importGrowthData": -1.54,
+          "exportData": 2109725,
+          "exportGrowthData": 2.66
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ],
+      "hs4PieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ]
     },
     {
-      "year": "2025",
-      "month": "11",
-      "pieData": {
-        "stockLabel": ["電話機及零件", "HS8470 至...", "其他", "石油（原油除外）", "自動資料處理（電腦）", "積體電路"],
-        "exportData": [ 28.94, 35.35, 44.78, 3.52, 2.22, 2.00 ]
-      }
+      "year": 2025,
+      "quarter": "Q3",
+      "mainChartData": [
+        {
+          "importData": 4620915,
+          "importGrowthData": 20,
+          "exportData": 1107820,
+          "exportGrowthData": -3.56
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ],
+      "hs4PieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ]
+      
+    },
+    {
+      "year": 2025,
+      "quarter": "Q2",
+      "mainChartData": [
+        {
+          "importData": 3779720,
+          "importGrowthData": 18,
+          "exportData": 1409725,
+          "exportGrowthData": 2.03
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ],
+      "hs4PieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ]
+      
+    },
+    {
+      "year": 2025,
+      "quarter": "Q1",
+      "mainChartData": [
+        {
+          "importData": 3782143,
+          "importGrowthData": 33,
+          "exportData": 2108355,
+          "exportGrowthData": 4.54
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ],
+      "hs4PieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ]
     }
   ]
 }
