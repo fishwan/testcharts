@@ -241,7 +241,7 @@
           "countryLabel": "日本",
           "exportData": 20.30,
           "importData": 7.56
-        },
+        }
       ],
       "hs4PieData": [
         {
@@ -253,7 +253,7 @@
           "countryLabel": "日本",
           "exportData": 20.30,
           "importData": 7.56
-        },
+        }
       ]
     }
   ]
