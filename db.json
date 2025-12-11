@@ -25,12 +25,12 @@
       ],
       "hs4PieData": [
         {
-          "countryLabel": "日本",
+          "stockLabel": "石油",
           "exportData": 20.30,
           "importData": 7.56
         },
         {
-          "countryLabel": "德國",
+          "stockLabel": "其他",
           "exportData": 15.25,
           "importData": 10.93
         }
@@ -61,12 +61,12 @@
       ],
       "hs4PieData": [
         {
-          "countryLabel": "中國",
+          "stockLabel": "自動資料處理",
           "exportData": 17.06,
           "importData": 23.03
         },
         {
-          "countryLabel": "德國",
+          "stockLabel": "其他",
           "exportData": 15.25,
           "importData": 10.93
         }
@@ -97,12 +97,12 @@
       ],
       "hs4PieData": [
         {
-          "countryLabel": "日本",
+          "stockLabel": "HS8470",
           "exportData": 20.30,
           "importData": 7.56
         },
         {
-          "countryLabel": "德國",
+          "stockLabel": "石油",
           "exportData": 15.25,
           "importData": 10.93
         }
@@ -135,12 +135,12 @@
       ],
       "hs4PieData": [
         {
-          "countryLabel": "澳大利亞",
+          "stockLabel": "其他",
           "exportData": 8.94,
           "importData": 18.76
         },
         {
-          "countryLabel": "德國",
+          "stockLabel": "零件",
           "exportData": 15.25,
           "importData": 10.93
         }
@@ -171,12 +171,12 @@
       ],
       "hs4PieData": [
         {
-          "countryLabel": "美國",
+          "stockLabel": "積體電路",
           "exportData": 20.30,
           "importData": 38.80
         },
         {
-          "countryLabel": "澳大利亞",
+          "stockLabel": "自動資料處理機",
           "exportData": 8.94,
           "importData": 18.76
         }
@@ -208,12 +208,12 @@
       ],
       "hs4PieData": [
         {
-          "countryLabel": "美國",
+          "stockLabel": "石油",
           "exportData": 20.30,
           "importData": 38.80
         },
         {
-          "countryLabel": "德國",
+          "stockLabel": "電話機",
           "exportData": 15.25,
           "importData": 10.93
         }
@@ -245,12 +245,12 @@
       ],
       "hs4PieData": [
         {
-          "countryLabel": "美國",
+          "stockLabel": "積體電路",
           "exportData": 20.30,
           "importData": 38.80
         },
         {
-          "countryLabel": "日本",
+          "stockLabel": "其他",
           "exportData": 20.30,
           "importData": 7.56
         }
