@@ -115,9 +115,9 @@
       "quarter": "Q1",
       "mainChartData": [
         {
-          "importData": 3782143,
+          "importData": 782143,
           "importGrowthData": 33,
-          "exportData": 2108355,
+          "exportData": 208355,
           "exportGrowthData": 4.54
         }
       ],
@@ -151,9 +151,9 @@
       "quarter": "Q2",
       "mainChartData": [
         {
-          "importData": 3779720,
+          "importData": 879720,
           "importGrowthData": 18,
-          "exportData": 1409725,
+          "exportData": 409725,
           "exportGrowthData": 2.03
         }
       ],
@@ -188,7 +188,7 @@
       "quarter": "Q3",
       "mainChartData": [
         {
-          "importData": 4620915,
+          "importData": 620915,
           "importGrowthData": 20,
           "exportData": 1107820,
           "exportGrowthData": -3.56
@@ -225,9 +225,9 @@
       "quarter": "Q4",
       "mainChartData": [
         {
-          "importData": 2609720,
+          "importData": 609720,
           "importGrowthData": -1.54,
-          "exportData": 2109725,
+          "exportData": 209725,
           "exportGrowthData": 2.66
         }
       ],
