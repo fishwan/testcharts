@@ -2,13 +2,13 @@
     "monthly": [
     {
       "year": 2025,
-      "month": 12,
+      "month": 10,
       "mainChartData": [
         {
-          "importData": 309725,
-          "importGrowthData": -3.54,
-          "exportData": 109725,
-          "exportGrowthData": 1.54
+          "importData": 579020,
+          "importGrowthData": 12,
+          "exportData": 333335,
+          "exportGrowthData": 2.03
         }
       ],
       "countryPieData": [
@@ -18,19 +18,19 @@
           "importData": 38.80
         },
         {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
         }
       ],
       "hs4PieData": [
         {
-          "stockLabel": "石油",
+          "stockLabel": "HS8470",
           "exportData": 20.30,
           "importData": 7.56
         },
         {
-          "stockLabel": "其他",
+          "stockLabel": "石油",
           "exportData": 15.25,
           "importData": 10.93
         }
@@ -74,51 +74,13 @@
     },
     {
       "year": 2025,
-      "month": 10,
+      "month": 12,
       "mainChartData": [
         {
-          "importData": 579020,
-          "importGrowthData": 12,
-          "exportData": 333335,
-          "exportGrowthData": 2.03
-        }
-      ],
-      "countryPieData": [
-        {
-          "countryLabel": "美國",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
-          "countryLabel": "德國",
-          "exportData": 15.25,
-          "importData": 10.93
-        }
-      ],
-      "hs4PieData": [
-        {
-          "stockLabel": "HS8470",
-          "exportData": 20.30,
-          "importData": 7.56
-        },
-        {
-          "stockLabel": "石油",
-          "exportData": 15.25,
-          "importData": 10.93
-        }
-      ]
-    }
-  ],
-  "quarterly":[
-    {
-      "year": 2025,
-      "quarter": "Q4",
-      "mainChartData": [
-        {
-          "importData": 2609720,
-          "importGrowthData": -1.54,
-          "exportData": 2109725,
-          "exportGrowthData": 2.66
+          "importData": 309725,
+          "importGrowthData": -3.54,
+          "exportData": 109725,
+          "exportGrowthData": 1.54
         }
       ],
       "countryPieData": [
@@ -135,38 +97,40 @@
       ],
       "hs4PieData": [
         {
-          "stockLabel": "其他",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
-          "stockLabel": "零件",
-          "exportData": 15.25,
-          "importData": 10.93
-        }
-      ]
-    },
-    {
-      "year": 2025,
-      "quarter": "Q3",
-      "mainChartData": [
-        {
-          "importData": 4620915,
-          "importGrowthData": 20,
-          "exportData": 1107820,
-          "exportGrowthData": -3.56
-        }
-      ],
-      "countryPieData": [
-        {
-          "countryLabel": "日本",
+          "stockLabel": "石油",
           "exportData": 20.30,
           "importData": 7.56
         },
         {
-          "countryLabel": "德國",
+          "stockLabel": "其他",
           "exportData": 15.25,
           "importData": 10.93
+        }
+      ]
+    }
+  ],
+  "quarterly":[
+    {
+      "year": 2025,
+      "quarter": "Q1",
+      "mainChartData": [
+        {
+          "importData": 3782143,
+          "importGrowthData": 33,
+          "exportData": 2108355,
+          "exportGrowthData": 4.54
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
         }
       ],
       "hs4PieData": [
@@ -176,12 +140,11 @@
           "importData": 38.80
         },
         {
-          "stockLabel": "自動資料處理機",
-          "exportData": 8.94,
-          "importData": 18.76
+          "stockLabel": "其他",
+          "exportData": 20.30,
+          "importData": 7.56
         }
       ]
-      
     },
     {
       "year": 2025,
@@ -222,79 +185,7 @@
     },
     {
       "year": 2025,
-      "quarter": "Q1",
-      "mainChartData": [
-        {
-          "importData": 3782143,
-          "importGrowthData": 33,
-          "exportData": 2108355,
-          "exportGrowthData": 4.54
-        }
-      ],
-      "countryPieData": [
-        {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
-          "countryLabel": "日本",
-          "exportData": 20.30,
-          "importData": 7.56
-        }
-      ],
-      "hs4PieData": [
-        {
-          "stockLabel": "積體電路",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
-          "stockLabel": "其他",
-          "exportData": 20.30,
-          "importData": 7.56
-        }
-      ]
-    }
-  ],
-  "yearly":[
-    {
-      "year": 2025,
-      "mainChartData": [
-        {
-          "importData": 2609720,
-          "importGrowthData": -1.54,
-          "exportData": 2109725,
-          "exportGrowthData": 2.66
-        }
-      ],
-      "countryPieData": [
-        {
-          "countryLabel": "美國",
-          "exportData": 20.30,
-          "importData": 38.80
-        },
-        {
-          "countryLabel": "澳大利亞",
-          "exportData": 8.94,
-          "importData": 18.76
-        }
-      ],
-      "hs4PieData": [
-        {
-          "stockLabel": "其他",
-          "exportData": 8.94,
-          "importData": 18.76
-        },
-        {
-          "stockLabel": "零件",
-          "exportData": 15.25,
-          "importData": 10.93
-        }
-      ]
-    },
-    {
-      "year": 2024,
+      "quarter": "Q3",
       "mainChartData": [
         {
           "importData": 4620915,
@@ -328,6 +219,79 @@
         }
       ]
       
+    },
+    {
+      "year": 2025,
+      "quarter": "Q4",
+      "mainChartData": [
+        {
+          "importData": 2609720,
+          "importGrowthData": -1.54,
+          "exportData": 2109725,
+          "exportGrowthData": 2.66
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 8.94,
+          "importData": 18.76
+        }
+      ],
+      "hs4PieData": [
+        {
+          "stockLabel": "其他",
+          "exportData": 8.94,
+          "importData": 18.76
+        },
+        {
+          "stockLabel": "零件",
+          "exportData": 15.25,
+          "importData": 10.93
+        }
+      ]
+    }
+  ],
+  "yearly":[
+    {
+      "year": 2022,
+      "mainChartData": [
+        {
+          "importData": 3782143,
+          "importGrowthData": 33,
+          "exportData": 2108355,
+          "exportGrowthData": 4.54
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "中國",
+          "exportData": 17.06,
+          "importData": 23.03
+        },
+        {
+          "countryLabel": "日本",
+          "exportData": 20.30,
+          "importData": 7.56
+        }
+      ],
+      "hs4PieData": [
+        {
+          "stockLabel": "積體電路",
+          "exportData": 20.30,
+          "importData": 38.80
+        },
+        {
+          "stockLabel": "其他",
+          "exportData": 20.30,
+          "importData": 7.56
+        }
+      ]
     },
     {
       "year": 2023,
@@ -366,25 +330,25 @@
       
     },
     {
-      "year": 2022,
+      "year": 2024,
       "mainChartData": [
         {
-          "importData": 3782143,
-          "importGrowthData": 33,
-          "exportData": 2108355,
-          "exportGrowthData": 4.54
+          "importData": 4620915,
+          "importGrowthData": 20,
+          "exportData": 1107820,
+          "exportGrowthData": -3.56
         }
       ],
       "countryPieData": [
         {
-          "countryLabel": "中國",
-          "exportData": 17.06,
-          "importData": 23.03
-        },
-        {
           "countryLabel": "日本",
           "exportData": 20.30,
           "importData": 7.56
+        },
+        {
+          "countryLabel": "德國",
+          "exportData": 15.25,
+          "importData": 10.93
         }
       ],
       "hs4PieData": [
@@ -394,9 +358,44 @@
           "importData": 38.80
         },
         {
+          "stockLabel": "自動資料處理機",
+          "exportData": 8.94,
+          "importData": 18.76
+        }
+      ]
+      
+    }{
+      "year": 2025,
+      "mainChartData": [
+        {
+          "importData": 2609720,
+          "importGrowthData": -1.54,
+          "exportData": 2109725,
+          "exportGrowthData": 2.66
+        }
+      ],
+      "countryPieData": [
+        {
+          "countryLabel": "美國",
+          "exportData": 33.30,
+          "importData": 32.80
+        },
+        {
+          "countryLabel": "澳大利亞",
+          "exportData": 12.94,
+          "importData": 13.76
+        }
+      ],
+      "hs4PieData": [
+        {
           "stockLabel": "其他",
-          "exportData": 20.30,
-          "importData": 7.56
+          "exportData": 5.94,
+          "importData": 17.76
+        },
+        {
+          "stockLabel": "零件",
+          "exportData": 20.25,
+          "importData": 15.93
         }
       ]
     }
