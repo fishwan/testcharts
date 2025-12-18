@@ -364,7 +364,8 @@
         }
       ]
       
-    }{
+    },
+    {
       "year": 2025,
       "mainChartData": [
         {
@@ -377,25 +378,25 @@
       "countryPieData": [
         {
           "countryLabel": "美國",
-          "exportData": 33.30,
-          "importData": 32.80
+          "exportData": 20.30,
+          "importData": 38.80
         },
         {
           "countryLabel": "澳大利亞",
-          "exportData": 12.94,
-          "importData": 13.76
+          "exportData": 8.94,
+          "importData": 18.76
         }
       ],
       "hs4PieData": [
         {
           "stockLabel": "其他",
-          "exportData": 5.94,
-          "importData": 17.76
+          "exportData": 8.94,
+          "importData": 18.76
         },
         {
           "stockLabel": "零件",
-          "exportData": 20.25,
-          "importData": 15.93
+          "exportData": 15.25,
+          "importData": 10.93
         }
       ]
     }
